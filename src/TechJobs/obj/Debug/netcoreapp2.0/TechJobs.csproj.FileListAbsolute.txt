@@ -1,0 +1,15 @@
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\web.config
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\bower.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.deps.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.runtimeconfig.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.runtimeconfig.dev.json
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.dll
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\bin\Debug\netcoreapp2.0\TechJobs.pdb
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.csprojAssemblyReference.cache
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.AssemblyInfoInputs.cache
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.AssemblyInfo.cs
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.dll
+C:\Sergey\lc101\TechJobsMVC_01\src\TechJobs\obj\Debug\netcoreapp2.0\TechJobs.pdb
